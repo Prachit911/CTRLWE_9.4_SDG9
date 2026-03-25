@@ -83,7 +83,7 @@ This bridges the gap between **ML predictions and human decision-making**.
 ---
 
 ## 🚨 Smart Notification System
-- Integrated **Twilio** for real-time alerts
+- Integrated **Twilio** for real-time alerts for notification on whatsapp or SMS
 - Sends **SMS & WhatsApp notifications** on critical failures
 - Includes:
   - Asset ID
